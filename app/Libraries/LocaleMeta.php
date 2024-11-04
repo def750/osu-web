@@ -18,23 +18,23 @@ class LocaleMeta
         ],
         'be' => [
             'flag' => 'BY',
-            'name' => 'беларуская мова',
+            'name' => 'Беларуская мова',
         ],
         'bg' => [
             'flag' => 'BG',
-            'name' => 'български',
+            'name' => 'Български',
         ],
         'ca' => [
             'flag' => 'AD', // ES-CA in crowdin
-            'name' => 'català',
+            'name' => 'Català',
         ],
         'cs' => [
             'flag' => 'CZ',
-            'name' => 'česky',
+            'name' => 'Česky',
         ],
         'da' => [
             'flag' => 'DK',
-            'name' => 'dansk',
+            'name' => 'Dansk',
         ],
         'de' => [
             'flag' => 'DE',
@@ -51,19 +51,19 @@ class LocaleMeta
         ],
         'es' => [
             'flag' => 'ES',
-            'name' => 'español',
+            'name' => 'Español',
         ],
         'fi' => [
             'flag' => 'FI',
-            'name' => 'suomi',
+            'name' => 'Suomi',
         ],
         'fil' => [
             'flag' => 'PH',
-            'name' => 'wikang Filipino',
+            'name' => 'Wikang Filipino',
         ],
         'fr' => [
             'flag' => 'FR',
-            'name' => 'français',
+            'name' => 'Français',
         ],
         'he' => [
             'flag' => 'IL',
@@ -71,15 +71,15 @@ class LocaleMeta
         ],
         'hu' => [
             'flag' => 'HU',
-            'name' => 'magyar',
+            'name' => 'Magyar',
         ],
         'id' => [
             'flag' => 'ID',
-            'name' => 'bahasa Indonesia',
+            'name' => 'Bahasa Indonesia',
         ],
         'it' => [
             'flag' => 'IT',
-            'name' => 'italiano',
+            'name' => 'Italiano',
         ],
         'ja' => [
             'flag' => 'JP',
@@ -91,7 +91,7 @@ class LocaleMeta
         ],
         'lt' => [
             'flag' => 'LT',
-            'name' => 'lietuvių kalba',
+            'name' => 'Lietuvių kalba',
         ],
         'nl' => [
             'flag' => 'NL',
@@ -100,46 +100,46 @@ class LocaleMeta
         'no' => [
             'flag' => 'NO',
             'moment' => 'nb',
-            'name' => 'norsk',
+            'name' => 'Norsk',
         ],
         'pl' => [
             'flag' => 'PL',
-            'name' => 'polski',
+            'name' => 'Polski',
         ],
         'pt' => [
             'flag' => 'PT',
-            'name' => 'português',
+            'name' => 'Português',
         ],
         'pt-br' => [
             'flag' => 'BR',
             'html' => 'pt-BR',
             'laravelPlural' => 'pt_BR',
-            'name' => 'português brasileiro',
+            'name' => 'Português Brasileiro',
         ],
         'ro' => [
             'flag' => 'RO',
-            'name' => 'română',
+            'name' => 'Română',
         ],
         'ru' => [
             'flag' => 'RU',
-            'name' => 'русский',
+            'name' => 'Русский',
         ],
         'sk' => [
             'flag' => 'SK',
-            'name' => 'slovenčina',
+            'name' => 'Slovenčina',
         ],
         'sl' => [
             'flag' => 'SI',
-            'name' => 'slovenščina',
+            'name' => 'Slovenščina',
         ],
         'sr' => [
             'flag' => 'RS',
             'moment' => 'sr-cyrl',
-            'name' => 'српски',
+            'name' => 'Српски',
         ],
         'sv' => [
             'flag' => 'SE',
-            'name' => 'svenska',
+            'name' => 'Svenska',
         ],
         'th' => [
             'flag' => 'TH',
@@ -155,7 +155,7 @@ class LocaleMeta
         ],
         'vi' => [
             'flag' => 'VN',
-            'name' => 'tiếng Việt',
+            'name' => 'Tiếng Việt',
         ],
         'zh' => [
             'flag' => 'CN',
